@@ -1,0 +1,40 @@
+
+Linear Regression Results:
+Mean Squared Error: 1.5040
+R-squared: 0.3433
+
+Random Forest Results:
+Mean Squared Error: 0.0881
+R-squared: 0.9615
+
+Linear Regression Results:
+Mean Squared Error: 1.5040
+R-squared: 0.3433
+
+Random Forest Results:
+Mean Squared Error: 0.0881
+R-squared: 0.9615
+
+Linear Regression Results:
+Mean Squared Error: 1.5040
+R-squared: 0.3433
+
+Random Forest Results:
+Mean Squared Error: 0.0881
+R-squared: 0.9615
+
+Linear Regression Results:
+Mean Squared Error: 1.5040
+R-squared: 0.3433
+
+Random Forest Results:
+Mean Squared Error: 0.0881
+R-squared: 0.9615
+
+Linear Regression Results:
+Mean Squared Error: 1.5040
+R-squared: 0.3433
+
+Random Forest Results:
+Mean Squared Error: 0.0881
+R-squared: 0.9615

@@ -1,0 +1,142 @@
+City,Avg Rating,Avg Price Range,Total Votes,Restaurant Count
+New Delhi,2.44,1.62,628340,5473
+Gurgaon,2.65,1.86,132160,1118
+Noida,2.04,1.6,73488,1080
+Faridabad,1.87,1.45,6486,251
+Ghaziabad,2.85,1.8,2366,25
+Bhubaneshwar,3.98,1.86,4243,21
+Lucknow,4.2,2.57,9130,21
+Guwahati,4.19,2.52,4964,21
+Ahmedabad,4.16,2.57,12266,21
+Amritsar,3.69,1.81,3665,21
+Abu Dhabi,4.3,3.3,6045,20
+Albany,3.56,1.7,1676,20
+Agra,3.96,2.65,2062,20
+Savannah,4.15,2.35,15377,20
+Surat,3.94,2.65,3667,20
+Augusta,4.13,2.15,7909,20
+Aurangabad,3.38,2.2,1296,20
+Auckland,4.28,3.05,6795,20
+Athens,4.2,1.6,12750,20
+Ankara,4.3,2.8,2627,20
+Allahabad,3.4,2.65,1392,20
+Chennai,4.31,2.45,27695,20
+Des Moines,4.24,2.15,11092,20
+Davenport,3.72,2.0,3022,20
+Dehradun,4.05,3.05,2430,20
+Boise,4.26,2.05,10381,20
+Cedar Rapids/Iowa City,4.16,2.05,6646,20
+Birmingham,3.68,2.4,1393,20
+Bangalore,4.38,2.7,56115,20
+Edinburgh,4.09,2.9,2246,20
+Doha,4.06,3.65,3276,20
+Dubuque,3.54,1.9,2021,20
+Dubai,4.37,3.05,18693,20
+Dalton,4.11,1.4,2561,20
+Macon,4.12,2.05,5272,20
+Ludhiana,3.98,2.65,2861,20
+London,4.54,3.0,8724,20
+Gainesville,4.04,1.75,4408,20
+Jaipur,4.13,2.85,11048,20
+Indore,3.97,2.75,4777,20
+Goa,4.24,3.65,15098,20
+Colombo,3.87,2.85,2929,20
+Columbus,4.03,2.15,5387,20
+Cape Town,4.11,3.2,5415,20
+Bhopal,3.95,2.15,2877,20
+Kochi,4.08,2.05,7199,20
+Kolkata,4.26,2.85,44593,20
+Kanpur,3.82,2.7,1898,20
+Manchester,4.04,2.7,4076,20
+Mangalore,3.74,2.5,4367,20
+Sioux City,3.76,1.9,3156,20
+Singapore,3.58,3.65,638,20
+S��o Paulo,3.53,3.6,559,20
+Tampa Bay,4.41,2.55,27407,20
+Varanasi,3.51,2.45,1729,20
+Wellington City,4.25,3.25,2926,20
+Waterloo,3.65,1.75,2083,20
+Vizag,4.0,2.35,3277,20
+Vadodara,4.03,2.6,3720,20
+Valdosta,3.72,2.25,4200,20
+Sharjah,4.03,3.3,4873,20
+Rest of Hawaii,4.41,2.35,15055,20
+Rio de Janeiro,4.26,3.5,401,20
+Pretoria,4.19,3.7,3126,20
+Pensacola,4.2,2.35,16890,20
+Puducherry,3.73,3.0,6848,20
+Pune,4.22,2.95,20732,20
+Pocatello,3.49,1.8,2607,20
+Ranchi,3.45,2.05,1807,20
+Patna,3.45,2.45,1520,20
+Orlando,4.47,2.9,23989,20
+Nashik,3.52,2.8,2095,20
+Mysore,3.7,2.45,4258,20
+Nagpur,3.96,2.3,3456,20
+Mumbai,4.08,2.75,29697,20
+Coimbatore,4.14,2.4,4219,20
+Bras�_lia,3.5,3.1,217,20
+Hyderabad,4.34,2.89,24135,18
+Chandigarh,4.05,2.5,10343,18
+Jakarta,4.36,3.0,11883,16
+��stanbul,4.29,2.86,12043,14
+Sandton,4.3,3.82,5410,11
+Johannesburg,4.2,4.0,3706,6
+Mandaluyong City,4.62,3.75,1200,4
+Taguig City,4.53,3.5,1663,4
+Pasay City,4.37,4.0,1818,3
+Pasig City,4.63,3.0,2090,3
+Bogor,3.85,2.5,1942,2
+Inner City,4.9,4.0,635,2
+Secunderabad,4.5,2.0,1902,2
+Tangerang,4.3,3.0,2367,2
+Santa Rosa,3.8,3.0,101,2
+San Juan City,4.25,3.0,681,2
+Hepburn Springs,3.8,1.5,285,2
+Makati City,4.65,3.0,905,2
+Balingup,3.2,2.0,21,1
+Armidale,3.5,2.0,25,1
+Cochrane,3.1,2.0,6,1
+Beechworth,4.6,2.0,237,1
+Huskisson,4.1,2.0,40,1
+Inverloch,3.7,1.0,100,1
+Forrest,3.7,2.0,29,1
+Clatskanie,4.3,1.0,96,1
+Chatham-Kent,3.7,2.0,176,1
+Bandung,4.2,3.0,22,1
+Consort,3.0,2.0,6,1
+Dicky Beach,3.6,1.0,29,1
+East Ballina,4.1,2.0,56,1
+Fernley,3.7,1.0,83,1
+Macedon,3.5,2.0,31,1
+Lakeview,3.6,1.0,41,1
+Lincoln,4.5,2.0,799,1
+Lorn,3.6,2.0,18,1
+Lakes Entrance,3.8,1.0,97,1
+Flaxton,3.5,3.0,37,1
+Penola,3.4,2.0,19,1
+Mayfield,2.9,2.0,11,1
+Montville,2.4,3.0,193,1
+Monroe,3.6,2.0,65,1
+Mohali,4.3,2.0,99,1
+Miller,3.4,1.0,11,1
+Mc Millan,2.4,1.0,17,1
+Middleton Beach,3.8,3.0,176,1
+Ojo Caliente,3.6,3.0,30,1
+Palm Cove,4.4,3.0,381,1
+Quezon City,4.8,3.0,294,1
+Princeton,4.0,4.0,542,1
+Potrero,3.3,2.0,9,1
+Phillip Island,3.7,2.0,351,1
+Panchkula,4.2,4.0,843,1
+Paynesville,2.6,4.0,16,1
+Tagaytay City,4.5,3.0,211,1
+Randburg,4.3,3.0,618,1
+Victor Harbor,3.6,2.0,96,1
+Vernonia,4.3,1.0,88,1
+Tanunda,4.4,3.0,339,1
+Trentham East,4.1,2.0,87,1
+Weirton,3.9,2.0,156,1
+Vineland Station,4.3,4.0,204,1
+Winchester Bay,3.2,2.0,16,1
+Yorkton,3.3,2.0,26,1
